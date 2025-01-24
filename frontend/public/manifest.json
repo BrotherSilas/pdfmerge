@@ -1,5 +1,4 @@
-{
-  "short_name": "PDFMERGE",
+{ "short_name": "PDFMERGE",
   "name": "PDFMERGE - PDF Merger Application",
   "icons": [
     {
@@ -8,18 +7,17 @@
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
+      "src": "logo1.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
+      "src": "logo3.png",
       "type": "image/png",
       "sizes": "512x512"
     }
   ],
-  "start_url": ".",
-  "display": "standalone",
+  "start_url": "./",
   "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "background_color": "#FFFFFF"
 }
